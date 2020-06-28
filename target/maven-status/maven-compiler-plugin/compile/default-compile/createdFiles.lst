@@ -1,0 +1,13 @@
+br/com/Forum/dao/PageDAO.class
+br/com/Forum/domain/GenericDomain.class
+br/com/Forum/dao/CategoryDAO.class
+br/com/Forum/bean/PageBean.class
+br/com/Forum/dao/GenericDAO.class
+br/com/Forum/domain/Page.class
+br/com/Forum/domain/Category.class
+br/com/Forum/domain/Person.class
+br/com/Forum/dao/PostDAO.class
+br/com/Forum/domain/Post.class
+br/com/Forum/bean/CategoryBean.class
+br/com/Forum/dao/PersonDAO.class
+br/com/Forum/util/HibernateUtil.class

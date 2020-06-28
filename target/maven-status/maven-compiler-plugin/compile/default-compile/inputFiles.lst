@@ -1,0 +1,13 @@
+/home/gabriel/eclipse-workspace/Forum/src/main/java/br/com/Forum/bean/PageBean.java
+/home/gabriel/eclipse-workspace/Forum/src/main/java/br/com/Forum/dao/PersonDAO.java
+/home/gabriel/eclipse-workspace/Forum/src/main/java/br/com/Forum/domain/Post.java
+/home/gabriel/eclipse-workspace/Forum/src/main/java/br/com/Forum/dao/PostDAO.java
+/home/gabriel/eclipse-workspace/Forum/src/main/java/br/com/Forum/domain/Page.java
+/home/gabriel/eclipse-workspace/Forum/src/main/java/br/com/Forum/domain/GenericDomain.java
+/home/gabriel/eclipse-workspace/Forum/src/main/java/br/com/Forum/dao/GenericDAO.java
+/home/gabriel/eclipse-workspace/Forum/src/main/java/br/com/Forum/dao/CategoryDAO.java
+/home/gabriel/eclipse-workspace/Forum/src/main/java/br/com/Forum/dao/PageDAO.java
+/home/gabriel/eclipse-workspace/Forum/src/main/java/br/com/Forum/domain/Person.java
+/home/gabriel/eclipse-workspace/Forum/src/main/java/br/com/Forum/util/HibernateUtil.java
+/home/gabriel/eclipse-workspace/Forum/src/main/java/br/com/Forum/domain/Category.java
+/home/gabriel/eclipse-workspace/Forum/src/main/java/br/com/Forum/bean/CategoryBean.java
